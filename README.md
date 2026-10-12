@@ -5,7 +5,7 @@ Um utilitário desenvolvido para a disciplina de Sistemas Operacionais que imple
 O programa analisa matrizes de alocação e requisição de recursos para determinar se o sistema entrou em um estado de impasse (deadlock) entre processos e semáforos.
 
 ## 🛠️ Tecnologias
-* **Linguagem:** Java*
+* **Linguagem:** Java
 * **Conceitos:** Sistemas Operacionais, Gerenciamento de Processos, Semáforos, Prevenção de Impasses.
 
 ## ⚙️ Exemplo de Uso
